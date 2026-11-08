@@ -1,0 +1,59 @@
+{
+  "app_name": "PARLAYIQ",
+  "tagline": "Plataforma de Inteligencia Deportiva, Predicción Estadística y Optimización de Combinadas",
+  "nav": {
+    "dashboard": "Centro de Partidos",
+    "radar": "PARLAYIQ RADAR",
+    "props": "Rendimiento de Jugadores",
+    "builder": "Constructor de Combinadas",
+    "daily": "Oportunidades del Día",
+    "performance": "Historial de Predicciones",
+    "ai": "PARLAYIQ AI Analyst"
+  },
+  "calendar": {
+    "yesterday": "Ayer",
+    "today": "Hoy",
+    "tomorrow": "Mañana",
+    "custom": "Calendario",
+    "timezone": "Hora Colombia (America/Bogota)",
+    "live": "En Directo",
+    "finished": "Finalizado",
+    "scheduled": "Programado"
+  },
+  "markets": {
+    "shots": "Disparos",
+    "shots_on_target": "Disparos a Puerta",
+    "goals": "Total Goles",
+    "both_teams_to_score": "Ambos Equipos Marcan",
+    "corners": "Córners",
+    "cards": "Tarjetas",
+    "fouls": "Faltas",
+    "assists": "Asistencias",
+    "player_props": "Mercados de Jugadores"
+  },
+  "quant": {
+    "fair_odds": "Cuota Justa",
+    "market_odds": "Cuota de Mercado",
+    "expected_value": "Valor Esperado (EV)",
+    "joint_probability": "Probabilidad Conjunta",
+    "independent_probability": "Probabilidad Independiente",
+    "correlation_effect": "Efecto de Correlación",
+    "simulations": "Simulaciones Monte Carlo",
+    "brier_score": "Brier Score",
+    "calibration": "Calibración del Modelo",
+    "kelly_stake": "Gestión de Banca (Kelly)"
+  },
+  "parlay_types": {
+    "same_game": "Combinada del Mismo Partido (Same Game Parlay)",
+    "multi_match": "Combinada Multipartido (Partidos Diferentes)"
+  },
+  "filters": {
+    "all": "Todos",
+    "best_of_day": "Mejor del Día",
+    "top_confidence": "Máxima Confianza",
+    "top_value": "Valor Positivo (+EV)",
+    "shots": "Disparos",
+    "sot": "Disparos a Puerta"
+  },
+  "disclaimer": "Herramienta de análisis matemático y valor esperado. Ninguna predicción es certeza; juegue responsablemente (+18)."
+}
